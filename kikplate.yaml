@@ -1,7 +1,7 @@
 name: speing starter template
 description: HTTP API starter with Chi, PostgreSQL, layered clean architecture, health checks, graceful shutdown, and Docker deployment defaults.
 category: backend
-owner: moeidheidari
+owner: MoeidHeidari
 verification_token: c2eec958-caab-4ede-8fea-ede8a9e2a311
 tags:
   - golang
