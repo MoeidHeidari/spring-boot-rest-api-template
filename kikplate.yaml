@@ -1,4 +1,4 @@
-name: Go Clean Architecture Starter template
+name: speing starter template
 description: HTTP API starter with Chi, PostgreSQL, layered clean architecture, health checks, graceful shutdown, and Docker deployment defaults.
 category: backend
 owner: moeidheidari
