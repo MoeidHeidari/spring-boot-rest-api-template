@@ -1,4 +1,4 @@
-name: speing starter template
+name: spring starter template
 description: HTTP API starter with Chi, PostgreSQL, layered clean architecture, health checks, graceful shutdown, and Docker deployment defaults.
 category: backend
 owner: MoeidHeidari
