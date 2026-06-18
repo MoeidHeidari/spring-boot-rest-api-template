@@ -2,7 +2,7 @@ name: spring starter template
 description: HTTP API starter with Chi, PostgreSQL, layered clean architecture, health checks, graceful shutdown, and Docker deployment defaults.
 category: backend
 owner: MoeidHeidari
-verification_token: dcd3a12e-80e4-4b27-b8d0-cc72fc5bac1d
+verification_token: 4254065a-6709-4e9e-86fd-c29140010feb
 tags:
   - golang
   - go
