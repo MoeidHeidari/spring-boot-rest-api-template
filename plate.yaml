@@ -1,5 +1,17 @@
-name: spring-boot-rest-api
-
+name: speing starter template
+description: HTTP API starter with Chi, PostgreSQL, layered clean architecture, health checks, graceful shutdown, and Docker deployment defaults.
+category: backend
+owner: MoeidHeidari
+verification_token: 887d49e5-4e31-4727-b2bd-e5b4329c863e
+tags:
+  - golang
+  - go
+  - chi
+  - clean-architecture
+  - rest
+  - postgresql
+  - docker
+  
 schema:
   projectName:
     type: string
